@@ -2,7 +2,7 @@
 
 Farm Zenith is an innovative agricultural optimization platform designed to empower farmers with data-driven insights for improved crop yield and resource management. This repository contains the Colab notebook demonstrating the core functionalities of Farm Zenith.
 
-![Farm Zenith Logo](Farm Zenith.jpg)
+<img width="600" height="200" src="https://github.com/Ronlin1/farm-zenith/blob/main/Farm%20Zenith.jpg">
 
 ## Getting Started
 
